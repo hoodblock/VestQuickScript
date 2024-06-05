@@ -1,0 +1,58 @@
+{
+    "rootPath": "/Users/V606/Desktop/V608/V608",
+    "productPath": "/Users/V606/Desktop/V608/V608/V608",
+    "isChangeAssets": true,
+    "modifyProjectName": {
+        "isOperate": false,
+        "config": {
+            "source": "",
+            "target": ""
+        }
+    },
+    "modifyPropertyName": {
+        "isOperate": true,
+        "config": {
+            "source": "",
+            "target": "",
+        }
+    },
+    "modifyAPIName": {
+        "isOperate": false,
+        "config": {
+            "source": "",
+            "target": "",
+        }
+    },
+    "modifyClassName": {
+        "isOperate": true,
+        "config": {
+            "source": "",
+            "target": "V_608"
+        }
+    },
+    "spamCode": {
+        "isOperate": true,
+        "config": {
+            "folder": "TestCode",
+            "classParameterName": "Parame",
+            "categoryParameterName":"Parame",
+            "methodParameterName": "Method",
+            "propertyParameterName": "Property",
+            "lasterClassParameterName": "LasterClass",
+        }
+    },
+    "deleteContent": {
+        "isOperate": false,
+        "config": {
+            "isComment": false,
+            "isSpace": false
+        }
+    },
+    "ignoreNames": {
+        "isOperate": true,
+        "config": {
+            "folders": ["Pods", "Frameworks", "StaticScript"],
+            "files": ["AppDelegate", "main", "SceneDelegate"]
+        }
+    },
+}
